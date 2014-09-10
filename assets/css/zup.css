@@ -5,6 +5,7 @@
 .layout_theme_home_boxes .home_boxes>div{
 	float:left;
 	width:31%;
+	letter-spacing: 11px;
 }
 
 html[dir="rtl"] .layout_theme_home_boxes .home_boxes>div{
