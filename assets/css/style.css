@@ -135,7 +135,7 @@ article { text-align: left; }
 .navigation-navbar { display: block; }
 .navigation-bar { margin: 0 auto; padding: 0; list-style: none; }
 .navigation-bar-left { float: left; }
-.navigation-bar-right { float: right; }
+.navigation-bar-right {float: right;}
 .navigation-bar > li { display: inline-block; }
 .navigation-bar > li a { display: inline-block; padding:15px; }
 .navigation-bar > li a:Hover,
