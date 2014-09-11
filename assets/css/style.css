@@ -1,31 +1,3 @@
-/*
-*    Startuply v1.1 Custom Styles
-*    by Vivaco
-*
-*    Table of Contents
-*    -------------------------
-*    1. Fonts
-*    2. Global & Helpers
-*    3. Preloader
-*    4. Elements
-*    5. Alternative tab slider
-*    6. ShortCodes
-*    7. Navigation Header 
-*    8. Top Hero Section
-*    9. Page versions
-*    10. Footer
-*    11. Mobile device 767px 
-*    12. Mobile device 540px 
-*    13. Mobile device 340px 
-*    14. Tablet device Landscape 1024px and 768px
-*    15. Tablet device Portrait 768px and 1024px
-*    16. Desktop medium screen 992px and 1199px
-*    17. Desktop large screen 1200px
-*
-*/
-/* Fonts */
-
-
 
 .thin { font-family: 'Lato', sans-serif; font-weight: 300; }
 
@@ -50,6 +22,10 @@ h5, .h5, h6, .h6, .h7 { margin-top: 20px; margin-bottom: 10px; }
 
 p { font-size: 16px; line-height: 27px; color: #1D1D1D; }
 small { font-weight: 300; font-size: 15px; line-height: 26px; }
+
+#hackathon{
+	background-color: #2D9ACE
+}
 
 a { color: #E65546; text-decoration: none; }
 a:hover, a:active, a:focus { color: #E65546; text-decoration: none; outline: none; }
@@ -260,7 +236,7 @@ blockquote:after { font-family: "line-icons";  position: absolute; color: #E6554
 #sc-countdown { margin-bottom: 50px; }
 
 /* Navigation Header */
-.navigation-header { position: absolute; top:10px; background: transparent; left: 0; right: 0; width: 100%; z-index: 99; }
+.navigation-header { position: absolute; top:0px; background: transparent; left: 0; right: 0; width: 100%; z-index: 99; }
 .navigation-header .navigation-brand { margin-right: 25px; margin-top: 17px; }
 .navigation-header .navigation-bar > li { padding: 15px 15px; }
 .navigation-header .navigation-bar > li > a { font-size: 13px; text-transform: uppercase; color: #eff3f6; border-bottom: 2px solid transparent; padding: 10px 0; line-height: 13px; opacity: 0.8; }
