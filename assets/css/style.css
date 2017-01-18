@@ -23,9 +23,17 @@ h5, .h5, h6, .h6, .h7 { margin-top: 20px; margin-bottom: 10px; }
 p { font-size: 16px; line-height: 27px; color: #1D1D1D; }
 small { font-weight: 300; font-size: 15px; line-height: 26px; }
 
-#hackathon{
-	background-color: #2D9ACE
+#what{
+	background-color: #D4DFE6
 }
+
+#hackathon{
+	background-color: #8EC0E4
+}
+#process{
+	background-color: #CADBE9
+}
+
 
 a { color: #63dc16; text-decoration: none; }
 a:hover, a:active, a:focus { color: #f40056; text-decoration: none; outline: none; }
@@ -157,7 +165,7 @@ article { text-align: left; }
 
 
 
-.nav-tabs > li.active a { -webkit-box-shadow: inset 0px 8px 0px -5px rgba(99, 220, 22,1); -moz-box-shadow: inset 0px 8px 0px -5px rgba(99, 220, 22,1); box-shadow: inset 0px 8px 0px -5px rgba(99, 220, 22,1); }  
+.nav-tabs > li.active a { -webkit-box-shadow: inset 0px 8px 0px -5px rgba(99, 220, 22,1); -moz-box-shadow: inset 0px 8px 0px -5px rgba(99, 220, 22,1); box-shadow: inset 0px 8px 0px -5px rgba(99, 220, 22,1); }
 .nav-tabs > li > a { font-size: 13px; text-transform: uppercase; font-weight: 700; color: #30353A; margin-right: 0px; background-color: #eff3f6; -webkit-border-radius: 0; -moz-border-radius: 0; border-radius: 0; padding: 20px 60px; border-left: 0; border-right: 0; }
 .nav-tabs > li > a:Hover { background: #63dc16; color: #fff; }
 .tab-content .tab-pane { padding: 16px 30px; border: 1px solid #ddd; border-top: 0; text-align: left; }
